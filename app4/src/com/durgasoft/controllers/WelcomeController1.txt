@@ -21,5 +21,11 @@ public class LoginController1 implements Controller {
 		}
 		return mav;
 	}
+	
+	public void add(){
+	
+	
+	}
+	
 
 }
